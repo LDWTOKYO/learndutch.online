@@ -39,49 +39,55 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Our services"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-home #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Flexible
+      content: "Learning Dutch anywhere, anytime. From the comfort of your own house you follow a 30-, 45- or 60-
+      private lessons via Skype, Whatsapp,LINE, Zoom, FaceTime or any other medium you prefere."
+
+    # service item loop
+    - icon :  ion-arrow-swap #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: 1-on-1 learning
+      content: "The focus is on you. Whether you just moved to the Netherlands, are preparing for a job interview or
+      a presentation, going on a business trip or just want to learn a new language. Your Dutch teacher will focus
+      on your goals and will design costume made lessons just for you."
+
+    # service item loop
+    - icon : ion-android-person #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Native speaker
+      content: "You will learn Dutch from a native speaker, who has worked for international schools and
+      language institutes and is experienced in teaching Dutch to adults, children, beginners, experienced 
+      students, business people and expats."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Free trial
+      content: "Try out a first lesson of 45 minutes to get to know your Dutch teacher. During this lesson your
+      will be checked, we will talk about your goals and study of course some Dutch to get you motived.
+      After this free trial lesson, you receive a level indication, a study plan and a price indication."
 
-    # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: 
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # 
+    # # service item loop
+    # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Development
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # 
+    # # service item loop
+    # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # 
+    # # service item loop
+    # - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
 ############################# call to action #################################
 cta:
