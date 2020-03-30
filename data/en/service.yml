@@ -44,29 +44,22 @@ service:
     # service item loop
     - icon : ion-home #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Flexible
-      content: "Learning Dutch anywhere, anytime. From the comfort of your own house you follow a 30-, 45- or 60-
-      private lessons via Skype, Whatsapp,LINE, Zoom, FaceTime or any other medium you prefere."
+      content: "Learning Dutch anywhere, anytime."
 
     # service item loop
     - icon :  ion-arrow-swap #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: 1-on-1 learning
-      content: "The focus is on you. Whether you just moved to the Netherlands, are preparing for a job interview or
-      a presentation, going on a business trip or just want to learn a new language. Your Dutch teacher will focus
-      on your goals and will design costume made lessons just for you."
+      content: "The focus is on you."
 
     # service item loop
     - icon : ion-android-person #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Native speaker
-      content: "You will learn Dutch from a native speaker, who has worked for international schools and
-      language institutes and is experienced in teaching Dutch to adults, children, beginners, experienced 
-      students, business people and expats."
+      content: "You will learn Dutch from a native speaker."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Free trial
-      content: "Try out a first lesson of 45 minutes to get to know your Dutch teacher. During this lesson your
-      will be checked, we will talk about your goals and study of course some Dutch to get you motived.
-      After this free trial lesson, you receive a level indication, a study plan and a price indication."
+      content: "Try out a first lesson for free."
 
 
     # # service item loop
