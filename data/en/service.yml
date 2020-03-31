@@ -1,7 +1,16 @@
-########################### about service #############################
-about:
+########################### about flexible #############################
+about1:
   enable : true
   title : "Flexible"
+  content : "You choose the location, time, duration and medium. This is 2020 after all. 
+
+From the comfort of your own place you receive private lessons via Skype, Whatsapp, LINE, Zoom, FaceTime or any other medium you prefere. Lessons are 30, 45 or 60 minutes."
+  image : "images/company/company-group-pic.jpg"
+  
+########################### about for whom #############################
+about2:
+  enable : true
+  title : "For whom?"
   content : "You choose the location, time, duration and medium. This is 2020 after all. 
 
 From the comfort of your own place you receive private lessons via Skype, Whatsapp, LINE, Zoom, FaceTime or any other medium you prefere. Lessons are 30, 45 or 60 minutes."
