@@ -1,6 +1,6 @@
 ################################## About #####################################
 about:
-  enable : true
+  enable : false
   image : "images/company/about.jpg"
   title : ""
   content : |
@@ -50,37 +50,37 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : ""
   feature_item:
     # feature item loop
-    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "IOS App Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-briefcase" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Resume"
+      content : "works for various international schools and language institutes"
       
     # feature item loop
-    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "App Secutity"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Experience"
+      content : "experience in teaching Dutch to beginners and experienced students"
       
     # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-university" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Education"
+      content : "University educated, Master Degree (LLM)"
       
     # feature item loop
-    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-chatbox-working" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Language"
+      content : "fluently in Dutch, English and basic Japanese"
       
     # feature item loop
-    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-ios-football" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Creative"
+      content : "believes in a creative way of teaching, learning a new language should be fun"
       
     # feature item loop
-    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-female" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Dutch native"
+      content : "mother tongue is Dutch"
     
 
 #################################### testimonial & mission vision #######################################
@@ -89,7 +89,7 @@ testimonial:
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
-  enable : true
+  enable : false
   tabs:
     # tab item loop
     - name : "Vision"
