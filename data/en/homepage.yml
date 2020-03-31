@@ -25,7 +25,7 @@ banner:
 
 ######################### Portfolio ###############################
 # portfolio:
-#   enable : true
+#   enable : true 
 #   bg_image : "images/featue-bg.jpg"
 #   title : "WE BELIEVE IN GREAT IDEAS"
 #   content : "

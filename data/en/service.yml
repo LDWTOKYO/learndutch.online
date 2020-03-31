@@ -44,7 +44,7 @@ service:
     # service item loop
     - icon : ion-home #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Flexible
-      content: "Learning Dutch anywhere, anytime."
+      content: "Learn Dutch anywhere, anytime."
 
     # service item loop
     - icon :  ion-arrow-swap #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -54,7 +54,7 @@ service:
     # service item loop
     - icon : ion-android-person #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Native speaker
-      content: "You will learn Dutch from a native speaker."
+      content: "Learn Dutch from a native speaker."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/

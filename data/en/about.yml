@@ -2,14 +2,17 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
-          
-          
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  title : ""
+  content : 
+  - icon: 
+  "ion-briefcase" "works for various international schools and language       institutes" 
+experience in teaching Dutch to beginners as well as experienced students
+Master Degree (LLM)
+fluently in Dutch and English (basic Japanese)
+provides costume made lessons for adults, children, expats and business people 
+believes in a creative way of teaching, learning a new language should be fun 
+
+"
 
   button:
     enable : true
