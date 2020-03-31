@@ -75,7 +75,7 @@ features:
     # feature item loop
     - icon : "ion-ios-football" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Creative"
-      content : "believes in a creative way of teaching, learning a new language should be fun"
+      content : "believes in a creative way of teaching, learning a new language should be fun!"
       
     # feature item loop
     - icon : "ion-female" #ionicon pack v2 : https://ionicons.com/v2/
@@ -85,7 +85,7 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
