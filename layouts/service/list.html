@@ -28,11 +28,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h2>{{ .title | markdownify }}</h2>
-        <p class="mt-30">{{ .content | markdownify }}</p>
+        <img class="img-responsive" src="{{ .image | relURL }}">
       </div>
       <div class="col-md-6">
-        <img class="img-responsive" src="{{ .image | relURL }}">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
       </div>
     </div>
   </div>
@@ -64,11 +64,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h2>{{ .title | markdownify }}</h2>
-        <p class="mt-30">{{ .content | markdownify }}</p>
+        <img class="img-responsive" src="{{ .image | relURL }}">
       </div>
       <div class="col-md-6">
-        <img class="img-responsive" src="{{ .image | relURL }}">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
       </div>
     </div>
   </div>
