@@ -16,6 +16,31 @@ about2:
 From the comfort of your own place you receive private lessons via Skype, Whatsapp, LINE, Zoom, FaceTime or any other medium you prefere. Lessons are 30, 45 or 60 minutes."
   image : "images/company/company-group-pic.jpg"
 
+########################### about lesson #############################
+about3:
+  enable : true
+  title : "Lesson?"
+  content : "All lessons are private, but it is also possible to learn Dutch online together with your co-worker, room mate, sibling [.....]. 
+
+During the lessons your teacher will speak Dutch as much as possible, but can explain everything to you as well in English (and basic Japanese). Depending on your wishes, we will work on your conversation, reading, listening and grammar skills. 
+
+Before each lesson you will receive an overview of the lesson, so you know beforehand what the scheduled lesson will be about. This overview is also a summary of the lesson and works as a guideline for your homework. 
+
+After each lesson you will receive your homework, which will be corrected and sent back to you before the next lesson. "
+  image : "images/company/company-group-pic.jpg"
+  
+########################### about free trial #############################
+about4:
+  enable : true
+  title : "Free trial lesson & level check"
+  content : "Want to get to know your Dutch teacher? You are welcome to try a free lesson of 45 minutes. 
+
+During this trial lesson your level will be checked, we will talk about your wishes, goals and about how the lessons work and of course we will study some Dutch to get you motivated.
+
+After the free trial lesson, you will receive a level indication, a study plan and a price indication.
+."
+  image : "images/company/company-group-pic.jpg"  
+
 ########################## featured service ############################
 featured_service:
   enable : true
