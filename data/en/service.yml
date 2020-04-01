@@ -2,26 +2,22 @@
 about1:
   enable : true
   title : "Flexible"
-  content : "You choose the location, time, duration and medium. This is 2020 after all. 
-
-From the comfort of your own place you receive private lessons via Skype, Whatsapp, LINE, Zoom, FaceTime or any other medium you prefere. Lessons are 30, 45 or 60 minutes."
-  image : "images/company/company-group-pic.jpg"
+  content : "You choose the location, time, duration and medium. From the comfort of your own place you receive private lessons via Skype, Whatsapp, LINE, Zoom, FaceTime or any other medium you prefere. Lessons are 30, 45 or 60 minutes."
+  image : "images/blog/blog-post-1.jpg"
   
 ########################### about for whom #############################
 about2:
   enable : true
   title : "For whom?"
-  content : "You choose the location, time, duration and medium. This is 2020 after all. 
-
-From the comfort of your own place you receive private lessons via Skype, Whatsapp, LINE, Zoom, FaceTime or any other medium you prefere. Lessons are 30, 45 or 60 minutes."
+  content : "Whether you just moved to the Netherlands, are preparing for a job interview or a presentation, going on a business trip or just want to learn a new language. Your Dutch teacher will focus on your goals and will design costume made lessons just for you."
   image : "images/company/company-group-pic.jpg"
 
 ########################### about lesson #############################
 about3:
   enable : true
   title : "Lesson?"
-  content : "All lessons are private, but it is also possible to learn Dutch online together with your co-worker, room mate, sibling [.....]. 
-
+  content : "All lessons are private, but it is also possible to learn Dutch online together with your co-worker, room mate or family. 
+  
 During the lessons your teacher will speak Dutch as much as possible, but can explain everything to you as well in English (and basic Japanese). Depending on your wishes, we will work on your conversation, reading, listening and grammar skills. 
 
 Before each lesson you will receive an overview of the lesson, so you know beforehand what the scheduled lesson will be about. This overview is also a summary of the lesson and works as a guideline for your homework. 
