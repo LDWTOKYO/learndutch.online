@@ -2,11 +2,11 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "Learning a new language can be fun!"
-  content : " Your Dutch teacher works for various international schools and language institutes and has experience in teaching Dutch to beginners as well as experienced students. The teacher speaks fluently Dutch, Englis and basic Japanese."
+  title : "Learning a new language should be fun!"
+  content : "Your Dutch teacher works for various international schools and language institutes and has experience in teaching Dutch to beginners as well as experienced students. The teacher speaks fluently Dutch, English and basic Japanese."
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
